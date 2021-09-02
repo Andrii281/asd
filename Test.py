@@ -5,3 +5,8 @@ def main():
     b = 30    
     c = a + b
     print(f"Result is {c}")
+
+def foo():
+    print('HelloWorld')
+
+foo()
